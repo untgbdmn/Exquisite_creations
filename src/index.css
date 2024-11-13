@@ -18,3 +18,7 @@
 .glass__effect {
     @apply dark:bg-white/5 bg-black/10 shadow-lg dark:shadow-white/10 backdrop-blur-2xl rounded-lg;
 }
+
+.text__gradient {
+    @apply bg-gradient-to-r dark:from-purple-500 dark:to-blue-500 from-blue-600 to-purple-600 bg-clip-text text-transparent w-fit;
+}

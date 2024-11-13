@@ -11,7 +11,7 @@ i18n
       en: { translation: en },
       id: { translation: id },
     },
-    lng: 'id', // bahasa default
+    lng: 'en', // bahasa default
     fallbackLng: 'en',
     interpolation: {
       escapeValue: false, // react sudah aman dari XSS

@@ -2,12 +2,17 @@
     "welcome": "Welcome",
     "description": "This is a multi-language example.",
     "toggleLanguage": "Change Language",
-    "home":"Home",
+    "home": "Home",
     "about": "About",
     "skill": "Skill",
     "portofolio": "Portofolio",
     "contact": "Contact",
     "tentangsaya": "About Me",
-    "riwayatpendidikan":"Education History",
-    "pengalamankerja": "Work Experience"
-  }
+    "riwayatpendidikan": "Education History",
+    "pengalamankerja": "Work Experience",
+    "kenalsayalebihdekat": "Getting to Know Me Better",
+    "mengenallebih": "Let's begin the journey to get to know each other better.",
+    "subtitletentangsaya": "Are you curious about who I am?",
+    "texttentangsaya": "I am a vocational high school graduate majoring in Computer and Network Engineering, where I successfully completed my studies with a good predicate. During my education, I had the valuable opportunity to undergo a Field Work Practice (PKL) program in fiber optic networking, which not only deepened my knowledge of network infrastructure, but also provided hands-on experience in applying the theories I had learned in class.",
+    "texttentangsaya2":"Currently, I am a Junior Web Developer at PT Belanja Pasti Indonesia. In this role, I am involved in various aspects of web application development and maintenance, including designing intuitive user interfaces and optimizing website performance. I am excited to continue exploring new technologies and honing my skills in the ever-evolving world of web development."
+}

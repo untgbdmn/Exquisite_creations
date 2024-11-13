@@ -21,7 +21,7 @@ export default function Navbar() {
     return (
         <>
             <div className="flex flex-row items-center justify-between sticky px-3 py-3 rounded-md top-2 backdrop-blur dark:bg-white/5 bg-black/5">
-                <Link to={'/'} className="text-lg font-bold">Untung Budiman</Link>
+                <Link to={'/'} className="text-lg font-bold text__gradient">Untung Budiman</Link>
 
 
                 <div className="lg:flex flex-row items-center justify-end gap-5 hidden">
