@@ -1,0 +1,13 @@
+{
+    "welcome": "Selamat Datang",
+    "description": "Ini adalah contoh multi-bahasa.",
+    "toggleLanguage": "Ganti Bahasa",
+    "home":"Beranda",
+    "about": "Tentang",
+    "skill": "Keahlian",
+    "portofolio": "Karya",
+    "contact": "Kontak",
+    "tentangsaya": "Tentang Saya",
+    "riwayatpendidikan":"Riwayat Pendidikan",
+    "pengalamankerja": "Pengalaman Pekerjaan"
+  }

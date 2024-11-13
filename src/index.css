@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.active__navlink {
+    @apply font-semibold border-b-2 px-3.5 border-blue-500 dark:border-purple-500 text-blue-500 dark:text-purple-500;
+}
+
+.default__navlink {
+    @apply font-semibold px-3.5;
+}
+
+.bloob_1 {
+    @apply h-20 rounded-full dark:blur-xl blur-xl w-28 dark:bg-purple-500 bg-blue-700 absolute -z-0;
+}
+
+.glass__effect {
+    @apply dark:bg-white/5 bg-black/10 shadow-lg dark:shadow-white/10 backdrop-blur-2xl rounded-lg;
+}
